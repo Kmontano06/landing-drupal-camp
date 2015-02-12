@@ -1,0 +1,189 @@
+a{
+	text-decoration: none;
+}
+hr{
+	margin-top: -1rem;
+}
+
+.logo{
+	margin-bottom: 1rem;
+	background: #1b8abe;
+	padding-left: 1rem;
+	padding-right: 1rem;
+
+}
+#nav-header{
+	background: #000;
+	padding: 1rem;
+	margin-left: 7rem;
+	margin-top: -8rem;
+	
+}
+#nav-header ul{
+	list-style: none;
+}
+#nav-header li{
+	display: inline-block;
+	padding-right: 1rem;
+
+}
+#nav-header li a{
+	color: #fff;
+	font-size: 1.5rem;	
+}
+header .info{
+	margin-top: -442px;
+	text-align: center;
+	color: #fff;
+	margin-bottom: 60px;
+}
+.info h3{
+	color: #000;
+}
+.info .img-hoja{
+	margin-bottom: 1rem;
+}
+.info .link-mas{
+	border:1px solid #fff;
+	padding: 0.3rem 2rem;
+	color: #fff;
+}
+.alinear{
+	width: 1000px;
+	margin: auto;
+}
+#about h2{
+	width: 735px;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 2rem;
+}
+#about .column-p{
+	width: 49%;
+	display: inline-block;
+	margin: auto;
+	margin-bottom: 3rem;
+}
+#about .parf-obj{
+	color: #6e7c89;
+	text-align: center;
+	font-weight: bold;
+}
+.parf-obj span{
+	color:#2b2b60;
+}
+.parf-obj .nom-dr{
+	color: #e8330f;
+}
+#event h4{
+	text-align: center;
+	margin-top: 4rem;
+	margin-bottom: 4rem;
+}
+#event article{
+	background: #f0f0f0;
+	padding: 2rem;
+	margin-bottom: 2rem;
+}
+#event .info-dr{
+	width: 57%;
+	margin-left: 20rem;
+	margin-top: -14rem;
+}
+.info-dr h3{
+	color:#3b1128;
+}
+.info-dr span{
+	color: #e8330f;
+}
+#coments{
+	margin-left: 15rem;
+	margin-bottom: 6rem;
+	margin-top: 5rem;
+}
+#coments article{
+	width: 25%;
+	color:#fff;
+	background: #f3810e;
+	display: inline-block;
+	padding: 1rem;
+}
+#coments p{
+	text-align: left;
+}
+#coments span{
+	color:#e8330f;
+}
+#patrocinadores{
+	background: #f0f0f0;
+	padding: 3rem;
+	padding-left: 163px;
+	padding-right: 12rem;
+}
+#patrocinadores h2{
+	width: 735px;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 2rem;
+}
+#patrocinadores p{
+	font-size: 14px;
+	text-align: center;
+	margin: auto;
+	width: 735px;
+	margin-bottom: 6rem;
+}
+.background{
+	background: url(../img/dccr-fun.png) center no-repeat;
+}
+.info-img{
+	background: #1c1f27;
+	opacity: 0.9;
+	padding: 19rem;
+	text-align: center;
+	color: #fff;
+}
+#registro span, #registro p, #registro h4{
+	text-align: center;
+	color: #00bcf2;
+}
+#registro h4{
+	color:#3b1128;
+	font-size: 1.5rem;
+}
+#registro span{
+	color:#2b2b2b;
+	font-style: italic;
+}
+#registro .inv-p{
+	margin-bottom: 3rem;
+}
+#registro a{
+	border: 1px solid #00bcf2;
+	color: #e8330f;
+	padding: 1rem 3rem;
+	text-align: center;
+	margin-left: 24rem;
+	margin-bottom: 3rem;
+}
+footer{
+	background: #2b2b2b;
+	padding: 3rem;
+	padding-left: 163px;
+	padding-right: 12rem;
+	margin-top: 5rem;
+	text-align: center;
+}
+#nav-footer ul{
+	list-style: none;
+}
+#nav-footer li{
+	display: inline-block;
+	padding-right: 1rem;
+
+}
+#nav-footer li a{
+	color: #fff;	
+	font-weight: bold;
+	text-decoration: underline;
+}
